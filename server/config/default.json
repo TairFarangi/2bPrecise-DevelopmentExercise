@@ -1,0 +1,9 @@
+{
+    "OrganizationStructure": {
+        "dbConfig": {
+            "host": "localhost",
+            "port": 5984,
+            "dbName": "mongodb+srv://orgaStrucUser:mawPXUoXTT7CllOs@cluster0.kfbghba.mongodb.net/organizationDb?retryWrites=true&w=majority"
+        }
+    }
+}
